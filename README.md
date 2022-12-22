@@ -22,3 +22,8 @@ pip install -r requirements.txt
 run the app.py file
 
 python app.py
+
+## Features
+A content based recommender system is used. This uses features tags consists of words from synopsis, genre and rating which are vectorized to form the feature set. Cosine similarity is used to find similar animes. 
+
+Jikan API is used to collect the reviews of the searched anime and sentiment analysis is run on the reviews. Pretrained sentiment-roberta-large-english is used to get the positive or negative labels from the reviews. 
