@@ -12,8 +12,11 @@ Go to the following website and download the files to the model folder of the cl
 https://huggingface.co/siebert/sentiment-roberta-large-english/tree/main
 
 ## Running the application
+
 install the requirements.txt file
+
 pip install -r requirements.txt
 
 run the app.py file
+
 python app.py
