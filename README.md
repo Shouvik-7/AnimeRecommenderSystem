@@ -1,6 +1,8 @@
 # AnimeRecommenderSystem
+A anime recommender system that recommends the top animes. The search option enables user to search for the favourite anime and this gives the information and anime recommendations related to the anime. 
 
-##Demo web application
+
+## Demo web application
 
 ![animerecomgif](https://user-images.githubusercontent.com/64649488/208632135-e5d5293b-d104-4b7b-a0e7-098f90ab311c.gif)
 
